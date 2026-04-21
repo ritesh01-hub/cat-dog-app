@@ -21,7 +21,8 @@ A simple web app that generates:
 - https://dog.ceo/
 
 ## 📸 Preview
-(Add screenshot here)
+![img](https://github.com/ritesh01-hub/cat-dog-app/blob/33191b7bc426cf1a1b371cbce63717b4b96fc6fd/Screenshot%202026-04-21%20113712.png)
+
 
 ## 💡 What I Learned
 - Working with APIs
